@@ -1,0 +1,57 @@
+body
+{
+ background-color: #40E0D0
+}
+#container
+{
+ width: 1330px;
+ margin-left: auto;
+ margin-top: 10px;
+ margin-right: auto;	
+}
+.rectengle
+{
+ width: 1000px;
+ background-color: #ffffff;
+ text-align: center;	
+ margin: 20px;
+ margin-right: 45px;
+}
+
+.pt
+{
+ background-color: #ffffff;
+ width: 1300px;
+ height: 1000px;
+ margin-left: 20px;
+ float: left;
+}
+#logo
+{
+ text-align: center;
+ float: left;
+ background-color: #ffffff;
+ width: 1300px;
+margin-right: 45px; 
+}
+#zegar
+{
+ color: #B2924D;
+ text-align: left;
+ font-size: 70px;
+ background-color: #ffffff;
+ font-family: 'Josefin Sans', sans-serif;
+ width:	1300px;
+}
+#foter
+{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+.memy
+{
+	font-family: Verdana;
+	font-size: 40px;
+	margin-left: 5px;
+	text-align: center;
+}
